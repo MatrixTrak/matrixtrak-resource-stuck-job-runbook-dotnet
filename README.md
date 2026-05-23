@@ -17,6 +17,14 @@ It is designed for quick implementation support, community sharing, and stable v
 
 A copy/paste runbook for queue pileups and jobs that run forever: scope, blocker, containment, safe recovery, and prevention guardrails.
 
+## Repository Contents
+
+- `resources/` contains shipped files copied from MatrixTrak public ship assets when available
+- `docs/post-mapping.md` maps this resource to related blog posts
+- `docs/resource-files.md` lists included files and source mapping
+- Included shipped files:
+  - resources/why-your-background-jobs-hang-forever-and-no-one-notices.zip
+
 ## Who This Is For
 
 - Engineers handling production incidents and reliability gaps
