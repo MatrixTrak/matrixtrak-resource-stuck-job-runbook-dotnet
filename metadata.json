@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T12:44:44.499Z",
+  "generatedAt": "2026-05-23T12:57:44.304Z",
   "resourceSlug": "stuck-job-runbook-dotnet",
   "title": "Stuck job runbook (template)",
   "description": "A copy/paste runbook for queue pileups and jobs that run forever: scope, blocker, containment, safe recovery, and prevention guardrails.",
