@@ -1,0 +1,13 @@
+{
+  "generatedAt": "2026-05-23T11:14:43.838Z",
+  "resourceSlug": "stuck-job-runbook-dotnet",
+  "title": "Stuck job runbook (template)",
+  "description": "A copy/paste runbook for queue pileups and jobs that run forever: scope, blocker, containment, safe recovery, and prevention guardrails.",
+  "category": ".NET",
+  "pillar": "",
+  "canonicalResourceUrl": "https://matrixtrak.com/resources/stuck-job-runbook-dotnet",
+  "primaryPostSlugs": [
+    "why-your-background-jobs-hang-forever-and-no-one-notices"
+  ],
+  "secondaryRelatedPostSlugs": []
+}
